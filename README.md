@@ -7,6 +7,10 @@ This collection includes modules and plugins for driving Red Hat Advanced Cluste
 
 ## Prerequisites
 
+
+
+
+
 Before using this collection, install compatible versions of Red Hat Advanced Cluster Management for Kubernetes and Ansible (or Ansible Automation Platform). Review the following documentation for more information.
 
 ## Red Hat Advanced Cluster Management for Kubernetes version compatibility
